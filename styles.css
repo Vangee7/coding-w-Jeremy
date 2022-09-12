@@ -1,0 +1,14 @@
+/* # means id */
+#my-text {
+  font-family: sans-serif;
+  color: green;
+}
+
+/* . means classname */
+.my-class-name {
+  color: #f30143;
+}
+
+.my-other-class-name {
+  font-size: 6px;
+}
